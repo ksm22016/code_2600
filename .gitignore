@@ -13,4 +13,5 @@ Ch13-multiple-lab.ipynb
 data/*
 *.pdf
 example.db
+heart.csv
 .DS_Store
